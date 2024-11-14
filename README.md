@@ -3,7 +3,7 @@
 🚀 Development sparked my coding passion—now it's a lifelong affair!
 📫 How to reach me: apoorv530sri@gmail.com
 
-🚀 Tech Stack:
+🚀 Tech Stack: 
 HTML5, CSS3, JavaScript, React, Redux.
 
 <!---
